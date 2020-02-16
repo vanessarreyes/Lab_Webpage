@@ -1,0 +1,32 @@
+/* Add any css you want to use for you website here */
+.center {
+  display: block;
+  margin-left: auto;
+  margin: auto;
+  width: 60%;
+}
+
+.header {
+  text-align: center;
+  color: #CFB87C;
+}
+
+.text_center {
+  font-size: 20px;
+  text-align: center;
+  color: black;
+}
+.text_center2 {
+  text-align: center;
+  color: black;
+}
+
+.text_right {
+  font-size: 18px;
+  text-align: left;
+  color: black;
+}
+
+th {
+  font-weight:normal;
+}
